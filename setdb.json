@@ -1,0 +1,16 @@
+{
+  "public": true,
+  "antijudol": false,
+  "Antilinkall": false,
+  "antijudol2": false,
+  "autoaigc": false,
+  "autoread": false,
+  "autotyping": false,
+  "Antilinkgc": false,
+  "Antilinkch": false,
+  "antiWame": false,
+  "autobio": false,
+  "onlygc": false,
+  "onlypm": false,
+  "onlyadmin": false
+}
